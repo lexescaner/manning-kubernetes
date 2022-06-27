@@ -1,1 +1,1 @@
-The repo contains exercises as part of Manning's LiveProject Kubernetes
+# The repo contains exercises as part of Manning's LiveProject Kubernetes.
